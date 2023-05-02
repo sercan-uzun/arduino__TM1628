@@ -17,3 +17,7 @@ USAGE NOTES
 -----------
 
 Just put the files on a TM1628 directory under "arduino/libraries" on your arduino IDE instalation
+
+
+
+This library has been modified by Sercan Uzun for the SMP-060.PCB model.
